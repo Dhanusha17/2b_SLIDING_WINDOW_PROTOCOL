@@ -1,7 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## Name:DHANUSHA K
 ## REG NO: 212223040034
-
 ## AIM
 To write python program to perform stop and wait protocol.
 ## ALGORITHM:
@@ -45,9 +44,7 @@ while True:
 ## OUPUT
 ## Client
 ![Screenshot 2024-08-27 184441](https://github.com/user-attachments/assets/fb9332c4-0ffa-4dfd-86b8-fc9d29f17dcb)
-
 ## Server
 ![Screenshot 2024-08-27 184456](https://github.com/user-attachments/assets/514befee-5470-41e1-96f5-dbb515aa10c6)
-
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
