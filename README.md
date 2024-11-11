@@ -2,7 +2,7 @@
 ## Name:DHANUSHA K
 ## REG NO: 212223040034
 ## AIM
-To write python program to perform stop and wait protocol.
+To write python program to SLIDING_WINDOW_PROTOCOL.
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
